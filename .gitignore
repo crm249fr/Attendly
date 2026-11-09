@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Локальные файлы базы данных SQLite
+attendly.db
+attendly.db-journal
+attendly.db-wal
+attendly.db-shm
